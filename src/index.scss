@@ -1,3 +1,9 @@
+@font-face {
+  font-family: "DMSerifText-Regular";
+  src: local("DMSerifText-Regular"), url("../DMSerifText-Regular.ttf") format("opentype");
+  font-display: swap;
+}
+
 *,
 *::before,
 *::after {
