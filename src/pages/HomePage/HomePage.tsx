@@ -1,13 +1,11 @@
 // import useTranslation from "hooks/useTranslation";
-import LindenLogo from "assets/LindenLogo-removebg.png";
 
 function HomePage() {
   // const [translation] = useTranslation();
 
   return (
     <>
-      <img src={LindenLogo} alt="Linden Home Community Logo" />
-      <p>Linden Home Community</p>
+      <p style={{ textAlign: "center", margin: "1rem", fontSize: "2rem" }}>Website under construction...</p>
       {/* <PageTitle title="Home" /> */}
     </>
   );
